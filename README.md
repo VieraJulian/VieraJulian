@@ -1,10 +1,10 @@
 <h1>Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-<p>Welcome to my page! </br> I'm Julián, Fullstack developer from <b>Entre Riós, Argentina 🇦🇷</p></br>
-<img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
-<br/>
+<p>Welcome to my page! </br> I'm Julián, Fullstack developer from Entre Riós, Argentina 🇦🇷</p></br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-viera/ "Connect on LinkedIn")
 
+<img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
+<br/>
 
 ## ⚡ Technologies
 
