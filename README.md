@@ -11,10 +11,6 @@
   </a>
 </div>
 
-
-<img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
-<br/>
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
