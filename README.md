@@ -1,5 +1,5 @@
 <h1>Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Riós, Argentina 🇦🇷</p>
+<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Riós, Argentina ⭐⭐⭐ 🇦🇷</p>
 
 ## Connect with me:
 
