@@ -3,13 +3,9 @@
 
 ## Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-viera/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-JuliánViera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/)
+[![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com)
 
-<div style="width: 40px; height: 40px;">
-  <a href="mailto:vierajulianeduardo@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" style="width: 40px; height: 40px;">
-  </a>
-</div>
 
 <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
 
