@@ -1,11 +1,10 @@
 <h1>Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Riós, Argentina 🇦🇷</p></br>
+<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Riós, Argentina 🇦🇷</p>
 
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JuliánViera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/)
 [![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com)
-
 
 <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
 
