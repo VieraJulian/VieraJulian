@@ -1,7 +1,7 @@
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Riós, Argentina ⭐⭐⭐ 🇦🇷</p>
+<p>Welcome to my page! </br> I'm Julián, BackEnd developer from Entre Ríos, Argentina ⭐⭐⭐ 🇦🇷</p>
 
 ## Connect with me:
 
