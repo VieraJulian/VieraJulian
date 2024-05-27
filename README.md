@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,powershell,git,github,idea,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,maven,hibernate,mysql,mongodb,postgres,git,github,windows,linux,ubuntu,powershell,postman,idea,vscode,figma" />
   </a>
 </p>
 
@@ -27,3 +27,5 @@
 <!-- [![GitHub followers](https://img.shields.io/github/followers/VieraJulian?label=Follow&style=social)](https://github.com/VieraJulian/?tab=follow) -->
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com) -->
+<!-- <a href="https://www.linkedin.com/in/julian-viera/overlay/1716846222744/single-media-viewer/?profileId=ACoAAD4nX1EBLj8u1u68w_x2qq13tqmpBYmRHCk"><img src="/cv.svg" alt="Curriculum Vitae"></a> -->
+
