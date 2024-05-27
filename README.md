@@ -24,3 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VieraJulian&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+<!-- [![GitHub followers](https://img.shields.io/github/followers/VieraJulian?label=Follow&style=social)](https://github.com/VieraJulian/?tab=follow) -->
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com) -->
