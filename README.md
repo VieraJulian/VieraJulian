@@ -9,6 +9,8 @@
 
 <p>Welcome to my page! </br> I'm Julián, a Java backend developer from Entre Ríos, Argentina ⭐⭐⭐ 🇦🇷</p> 
 
+<br>
+
 <img align="right" alt="GIF" src="/img/archivo.gif" width="360px"/>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
