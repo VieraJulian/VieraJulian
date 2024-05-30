@@ -14,11 +14,11 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I am currently working on backend projects with **Java and Spring**.
-- 🌱 &nbsp; I'm currently learning Spring Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/VieraJulian).
+- 🌱 &nbsp; I'm currently learning **Spring Security**.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on **[GitHub](https://github.com/VieraJulian)**.
 - 💬 &nbsp; Ask me about any topic related to technology, I will be happy to help you.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/julian-viera).
-- 📝 &nbsp; Checkout my <a href="https://drive.google.com/file/d/1elteP-5T5CgMwIg3LK488cDEUhSx8PBR/view?usp=drive_link">resume</a>.
+- 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://linkedin.com/in/julian-viera)**.
+- 📝 &nbsp; Checkout my **<a href="https://drive.google.com/file/d/1elteP-5T5CgMwIg3LK488cDEUhSx8PBR/view?usp=drive_link">resume</a>**.
 - 🏋️‍♂️ &nbsp; I like to go to the gym in my free time.
 
 <br>
