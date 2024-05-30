@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="/img/archivo.gif" width="360px"/>
   
-### 🧐 More About Me:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 &nbsp; I am currently working on backend projects with **Java and Spring**.
 - 🌱 &nbsp; I'm currently learning **Spring Security**.
