@@ -28,7 +28,7 @@
 ### 🔨 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,maven,hibernate,mysql,mongodb,postgres,git,github,windows,linux,ubuntu,powershell,postman,idea,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,maven,hibernate,mysql,mongodb,postgres,git,github,windows,linux,ubuntu,powershell,bash,postman,idea,vscode,figma" />
   </a>
 </p>
 
