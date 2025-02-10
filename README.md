@@ -16,7 +16,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 &nbsp; I am currently working on backend projects with **Java and Spring**.
-- 🌱 &nbsp; I'm currently learning **Keycloak**.
+- 🌱 &nbsp; I'm currently learning **English**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on **[GitHub](https://github.com/VieraJulian)**.
 - 💬 &nbsp; Ask me about any topic related to technology, I will be happy to help you.
 - 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://linkedin.com/in/julian-viera)**.
