@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<a href="[https://drive.google.com/file/d/18VVJCH3JL673SfzTpX26xOnCgiZPYUru/view?usp=sharing](https://drive.google.com/file/d/18VVJCH3JL673SfzTpX26xOnCgiZPYUru/view?usp=sharing)" download><img src="/img/cv.svg" alt="Curriculum Vitae"></a>
+<a href="https://drive.google.com/file/d/18VVJCH3JL673SfzTpX26xOnCgiZPYUru/view?usp=sharing" download><img src="/img/cv.svg" alt="Curriculum Vitae"></a>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/)
 [![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/VieraJulian?label=Follow&style=social)](https://github.com/VieraJulian/?tab=follow)
