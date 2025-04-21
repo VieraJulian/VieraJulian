@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<a href="https://drive.google.com/file/d/18VVJCH3JL673SfzTpX26xOnCgiZPYUru/view" download><img src="/img/cv.svg" alt="Curriculum Vitae"></a>
+<a href="https://drive.google.com/file/d/1QvNriEqAEMYiy9wClK-f9cZpjw-bt3KI/view" download><img src="/img/cv.svg" alt="Curriculum Vitae"></a>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/julian-viera/)](https://www.linkedin.com/in/julian-viera/)
 [![Gmail Badge](https://img.shields.io/badge/-vierajulianeduardo@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vierajulianeduardo@gmail.com)](mailto:vierajulianeduardo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/VieraJulian?label=Follow&style=social)](https://github.com/VieraJulian/?tab=follow)
@@ -20,7 +20,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on **[GitHub](https://github.com/VieraJulian)**.
 - 💬 &nbsp; Ask me about any topic related to technology, I will be happy to help you.
 - 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://linkedin.com/in/julian-viera)**.
-- 📝 &nbsp; Checkout my **<a href="https://drive.google.com/file/d/1fD5tpF8_HY0-27O7bB2bYfJYsf4pq6h3/view?usp=sharing">resume</a>**.
+- 📝 &nbsp; Checkout my **<a href="https://drive.google.com/file/d/1QvNriEqAEMYiy9wClK-f9cZpjw-bt3KI/view?usp=drive_link">resume</a>**.
 - 🏋️‍♂️ &nbsp; I like to go to the gym in my free time.
 
 <br>
